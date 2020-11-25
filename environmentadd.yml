@@ -2,9 +2,9 @@ name: pysumma
 channels:
   - conda-forge
 dependencies:
+  - basemap
   - dask-jobqueue
   - geoviews
-  - bokeh=1.4.0
   - statsmodels
   - scikit-learn
   - pip
